@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("monitoriMovil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db79325a75186786c5d3d65cebea39b0297e8e81")]
 [assembly: System.Reflection.AssemblyProductAttribute("monitoriMovil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("monitoriMovil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
